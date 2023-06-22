@@ -1,4 +1,4 @@
-[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmykolaharmash%2Fgit-jump%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw1ti8wqMMgxdCGTSvK2L_xO&ust=1687526559378000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJChgrv81v8CFQAAAAAdAAAAABAF)
 <h1 align="center">Hi 👋, I'm Semih Eseroğlu</h1>
 <h3 align="center">Unity Developer</h3>
 
