@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/mykolaharmash/git-jump/main/img/readme-banner.png)
+[![MasterHead](https://freerangestock.com/sample/140773/skull-formed-by-computer-code--cyber-crime-concept.jpg)
 <h1 align="center">Hi 👋, I'm Semih Eseroğlu</h1>
 <h3 align="center">Unity Developer</h3>
 
