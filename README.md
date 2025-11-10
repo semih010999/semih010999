@@ -20,8 +20,7 @@ I love exploring new mechanics, experimenting with gameplay systems, and polishi
 🎯 **Interests**
 - Game Design & Level Design  
 - AI and Machine Learning in Games  
-- Mobile Game Development  
-- Player Progression & Save Systems  
+- Mobile Game Development    
 
 ---
 
