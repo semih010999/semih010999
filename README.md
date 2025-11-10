@@ -1,5 +1,5 @@
 <!-- Banner -->
-![MasterHead](https://freerangestock.com/sample/140773/skull-formed-by-computer-code--cyber-crime-concept.jpg)
+<!-- ![MasterHead](https://freerangestock.com/sample/140773/skull-formed-by-computer-code--cyber-crime-concept.jpg) -->
 
 <h1 align="center">Hi 👋, I'm Semih Eseroğlu</h1>
 <h3 align="center">🎮 Unity Developer | 💻 Software Engineer | 🚀 Game Creator</h3>
